@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjdev&label=Profile%20views&color=0e75b6&style=flat" alt="juanjdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/st1ckval" target="blank"><img src="https://img.shields.io/twitter/follow/st1ckval?logo=twitter&style=for-the-badge" alt="st1ckval" /></a> </p>
+<p align="left"> <a href="https://twitter.com/juanjbdev" target="blank"><img src="https://img.shields.io/twitter/follow/st1ckval?logo=twitter&style=for-the-badge" alt="st1ckval" /></a> </p>
 
 - 🔭 I’m currently working on **automation and developing projects**
 
