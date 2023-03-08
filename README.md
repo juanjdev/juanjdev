@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjdev&label=Profile%20views&color=0e75b6&style=flat" alt="juanjdev" /> </p>
 
-<p align="left"> <a href="https://twitter.com/juanjbdev" target="blank"><img src="https://img.shields.io/twitter/follow/st1ckval?logo=twitter&style=for-the-badge" alt="st1ckval" /></a> </p>
+<p align="left"> <a href="https://twitter.com/juanjbdev" target="blank"><img src="https://img.shields.io/twitter/follow/juanjbdev?logo=twitter&style=for-the-badge" alt="st1ckval" /></a> </p>
 
 - 🔭 I’m currently working on **automation and developing projects**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/st1ckval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="st1ckval" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uanj-blanco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uanj-blanco/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juanj-blanco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uanj-blanco/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
