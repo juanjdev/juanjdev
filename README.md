@@ -1,13 +1,13 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Juanjo</h1>
-<h3 align="center">A passionate Software and Data Science Engineer from Colombia</h3>
+<h3 align="center">A passionate Software and Computer Science Engineer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMyMjU2ZGFkNmQ5OTE1OWY0MzJhMjZjNDgwNGExYTk3ZTdiMjE3MCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanjdev&label=Profile%20views&color=0e75b6&style=flat" alt="juanjdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/juanjbdev" target="blank"><img src="https://img.shields.io/twitter/follow/juanjbdev?logo=twitter&style=for-the-badge" alt="st1ckval" /></a> </p>
 
-- 🔭 I’m currently working on **automation and developing projects**
+- 🔭 I’m currently working on **full stack .NET and Angular software developing projects**
 
 - 🌱 I’m currently learning **Python, Data Science**
 
